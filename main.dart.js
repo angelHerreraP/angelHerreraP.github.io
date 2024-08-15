@@ -25736,7 +25736,7 @@ $.a6.toString
 p=null
 o=null
 try{p="https://hwgzjkexxevxhojknecl.supabase.co"
-o="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+o="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh3Z3pqa2V4eGV2eGhvamtuZWNsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2ODIzNzgsImV4cCI6MjAzNzI1ODM3OH0.23ITbWx92wHRS93yNicykiqX6mb2M9GE4uk26pzA6Pw"
 m=p
 A.aiu(o,m).jW(new A.avO())}catch(a){n=A.ab(a)
 A.eb("Error initializing Supabase: "+A.j(n))
